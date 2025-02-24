@@ -11,3 +11,5 @@ V
 &tests/quantum-mind-interfacing.test.ts,4/9/49a24d12b549ffa983f152ba3278a9190e5f91d2
 _
 /contracts/collective-consciousness-pooling.clar,f/d/fd420883c34f799ed429a29236d7272f9bdf0d6d
+R
+"contracts/sentience-evolution.clar,a/4/a4d52f5d2053abb14ecc6e7cd35c90d25bccb72d

@@ -50,8 +50,18 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: collective-consciousness-pooling
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/collective-consciousness-pooling.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: quantum-mind-interfacing
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-mind-interfacing.clar
+            clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: sentience-evolution
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/sentience-evolution.clar
             clarity-version: 2
       epoch: "2.5"
